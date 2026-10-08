@@ -28,4 +28,4 @@ report/         Final report
 
 pip install -r requirements.txt
 
-jupyter notebook notebooks/eda.ipynb
+jupyter notebook notebooks/Final.ipynb
